@@ -1,2 +1,5 @@
 FLight_simulator using opengl 
-You have to run flight-simulator cpp , it contains some basic graphic layouts 
+It uses basic maths , opengl and c++ library
+it will show an airplane which can rotate , move up and down and speed up and down . It will crash on colliding with structures present in the terrain.
+rfHillTerrain makes the basic hill geometry
+u just need to run Flight simulator.cpp 
